@@ -10,4 +10,4 @@ This repository contains practical problems and exercises on advanced topics in 
 
 [Practice 0](https://github.com/tlidzhiev/hse-advanced-real-analysis/blob/main/practice-00/practice-00.ipynb): Sequences, series, functions
 
-[Practice 0](https://github.com/tlidzhiev/hse-advanced-real-analysis/blob/main/practice-00/practice-00.ipynb): Interpolation
+[Practice 1](https://github.com/tlidzhiev/hse-advanced-real-analysis/blob/main/practice-00/practice-00.ipynb): Interpolation
